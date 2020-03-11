@@ -1,4 +1,4 @@
-package com.amphora.framework.utilities;
+package com.hlb.framework.utilities;
 
 import java.time.Duration;
 
@@ -11,8 +11,8 @@ import org.openqa.selenium.WebDriverException;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
-import com.amphora.framework.base.DriverManager;
 import com.google.common.base.Function;
+import com.hlb.framework.base.DriverManager;
 
 public class DriverWait {
 	private static WebDriver driver = DriverManager.getDriver();

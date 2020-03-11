@@ -1,4 +1,4 @@
-package com.amphora.framework.utilities;
+package com.hlb.framework.utilities;
 
 import java.io.File;
 import java.math.RoundingMode;
@@ -9,7 +9,8 @@ import java.time.temporal.TemporalAdjusters;
 
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
-import com.amphora.framework.base.DriverManager;
+
+import com.hlb.framework.base.DriverManager;
 
 import io.cucumber.core.api.Scenario;
 

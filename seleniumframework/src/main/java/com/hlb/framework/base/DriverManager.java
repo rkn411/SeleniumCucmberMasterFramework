@@ -1,4 +1,4 @@
-package com.amphora.framework.base;
+package com.hlb.framework.base;
 
 import java.util.concurrent.TimeUnit;
 
@@ -16,8 +16,8 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeTest;
 
-import com.amphora.framework.support.io.PropertiesFile;
-import com.amphora.framework.utilities.UtilityMethods;
+import com.hlb.framework.support.io.PropertiesFile;
+import com.hlb.framework.utilities.UtilityMethods;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 

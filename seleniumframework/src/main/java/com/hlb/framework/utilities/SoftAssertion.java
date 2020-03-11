@@ -1,4 +1,4 @@
-package com.amphora.framework.utilities;
+package com.hlb.framework.utilities;
 
 import org.testng.asserts.SoftAssert;
 
